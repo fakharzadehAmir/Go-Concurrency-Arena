@@ -13,8 +13,8 @@
 *.dylib
 
 # add mod and sum files
-*/*.mod
-*/*.sum
+*.mod
+*.sum
 
 # Test binary, built with `go test -c`
 *.test
